@@ -86,7 +86,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "https://forum.feed-the-beast.com/forum/ftb-beyond.261/"
+				"link" : "https://github.com/Darkkitten/DKModPack"
             }
         },				
         "changelog":
@@ -101,7 +101,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "https://www.feed-the-beast.com/projects/ftb-beyond/files"
+				"link" : "https://github.com/Darkkitten/DKModPack"
             }
         },		
 		"forums":
@@ -116,7 +116,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "http://forum.feed-the-beast.com/forum/"
+				"link" : "https://github.com/Darkkitten/DKModPack"
             }
         },		
         "server files":
@@ -131,7 +131,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "https://www.feed-the-beast.com/projects/ftb-beyond/files"
+				"link" : "https://github.com/Darkkitten/DKModPack"
             }
         },       
         "quit":
@@ -166,7 +166,7 @@
                 "gui" : "languages"
             }
         },
-        "ftb website":
+        "darkkitten website":
         {
             "text" : "",
             "posX" : 104,
@@ -181,7 +181,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "http://www.feed-the-beast.com/"
+				"link" : "https://github.com/Darkkitten/DKModPack"
             }
         },
         "alpha mods":
@@ -229,7 +229,7 @@
             "alignment" : "bottom_right"
         },
 		"modpack":{
-			"text" : "FTB Beyond",
+			"text" : "Darkkitten modpack",
             "posX" : 3,
             "posY" : -28,
 			"fontSize" : .7,
@@ -265,7 +265,7 @@
             "alignment" : "bottom_left"
 		},
 		"newsLine1":{
-			"text" : "Expert Mode coming soon on Minecraft 1.11",
+			"text" : "First Version",
             "posX" : 10,
             "posY" : 10,
 			"fontSize" : 1.3,
