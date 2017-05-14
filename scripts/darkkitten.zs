@@ -484,5 +484,75 @@ mods.chisel.Groups.addVariation("hardenedclay", <minecraft:stained_hardened_clay
 //ItemStack
 mods.chisel.Groups.removeVariation(<chisel:hexPlating>);
 
+//Alloy Smelter
+mods.techreborn.alloySmelter.addRecipe(IItemStack, IIngredient, IIngredient, int, int)
+mods.techreborn.alloySmelter.removeInputRecipe(IIngredient)
+mods.techreborn.alloySmelter.removeRecipe(IItemStack)
+
+//Assembling Machine
+mods.techreborn.assemblingMachine.addRecipe(IItemStack, IIngredient, IIngredient, int, int)
+mods.techreborn.assemblingMachine.removeInputRecipe(IIngredient)
+mods.techreborn.assemblingMachine.removeRecipe(IItemStack)
+
+//Blast Furnace
+mods.techreborn.blastFurnace.addRecipe(IItemStack, IItemStack, IIngredient, IIngredient, int, int, int)
+mods.techreborn.blastFurnace.removeInputRecipe(IIngredient)
+mods.techreborn.blastFurnace.removeRecipe(IItemStack)
+
+//Centrifuge
+mods.techreborn.centrifuge.addRecipe(IItemStack, IItemStack, IItemStack, IItemStack, IIngredient, IIngredient, int, int)
+mods.techreborn.centrifuge.removeInputRecipe(IIngredient)
+mods.techreborn.centrifuge.removeRecipe(IItemStack)
+
+//Chemical Reactor
+mods.techreborn.chemicalReactorRecipe.addRecipe(IItemStack, IIngredient, IIngredient, int, int)
+mods.techreborn.chemicalReactorRecipe.removeInputRecipe(IIngredient)
+mods.techreborn.chemicalReactorRecipe.removeRecipe(IItemStack)
+
+//Compressor
+mods.techreborn.compressor.addRecipe(IItemStack, IIngredient, int, int)
+mods.techreborn.compressor.removeInputRecipe(IIngredient)
+mods.techreborn.compressor.removeRecipe(IItemStack)
+
+//Fusion Reactor
+mods.techreborn.fusionReactor.addRecipe(IIngredient, IIngredient, IItemStack, int, int, int)
+mods.techreborn.fusionReactor.removeBottomInputRecipe(IIngredient)
+mods.techreborn.fusionReactor.removeRecipe(IItemStack)
+mods.techreborn.fusionReactor.removeTopInputRecipe(IIngredient)
+
+//Grinder
+mods.techreborn.grinder.addRecipe(IItemStack, IItemStack, IItemStack, IItemStack, IIngredient, IIngredient, ILiquidStack, int, int)
+mods.techreborn.grinder.addRecipe(IItemStack, IItemStack, IItemStack, IItemStack, IIngredient, IIngredient, int, int)
+mods.techreborn.grinder.removeInputRecipe(IIngredient)
+mods.techreborn.grinder.removeRecipe(IItemStack)
+
+//Implosion Compressor
+mods.techreborn.implosionCompressor.addRecipe(IItemStack, IItemStack, IIngredient, IIngredient, int, int)
+mods.techreborn.implosionCompressor.removeInputRecipe(IIngredient)
+mods.techreborn.implosionCompressor.removeRecipe(IItemStack)
+
+//Industrial Electrolyzer
+mods.techreborn.industrialElectrolyzer.addRecipe(IItemStack, IItemStack, IItemStack, IItemStack, IIngredient, IIngredient, int, int)
+mods.techreborn.industrialElectrolyzer.removeInputRecipe(IIngredient)
+mods.techreborn.industrialElectrolyzer.removeRecipe(IItemStack)
+
+//Industrial Sawmill
+mods.techreborn.industrialSawmill.addRecipe(IItemStack, IItemStack, IItemStack, IIngredient, IIngredient, ILiquidStack, int, int)
+mods.techreborn.industrialSawmill.addRecipe(IItemStack, IItemStack, IItemStack, IIngredient, IIngredient, ILiquidStack, int, int, boolean)
+mods.techreborn.industrialSawmill.addRecipe(IItemStack, IItemStack, IItemStack, IIngredient, IIngredient, int, int)
+mods.techreborn.industrialSawmill.addRecipe(IItemStack, IItemStack, IItemStack, IIngredient, IIngredient, int, int, boolean)
+mods.techreborn.industrialSawmill.removeInputRecipe(IIngredient)
+mods.techreborn.industrialSawmill.removeRecipe(IItemStack)
+
+//Rolling Machine
+mods.techreborn.rollingMachine.addShaped(IItemStack, IIngredient[][])
+mods.techreborn.rollingMachine.addShapeless(IItemStack, IIngredient[])
+mods.techreborn.rollingMachine.removeRecipe(IItemStack)
+
+//Vacuum Freezer
+mods.techreborn.vacuumFreezer.addRecipe(IItemStack, IIngredient, int, int)
+mods.techreborn.vacuumFreezer.removeInputRecipe(IIngredient)
+mods.techreborn.vacuumFreezer.removeRecipe(IItemStack)
+
 
 print("Initialized 'darkkitten.zs'");
