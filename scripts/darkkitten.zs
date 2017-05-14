@@ -472,6 +472,17 @@ mods.botania.RuneAltar.addRecipe(<minecraft:stonebrick:2>, [<minecraft:stonebric
 //OutputStack
 mods.botania.RuneAltar.removeRecipe(<Botania:rune>);
 
+//Groups
+//Group
+mods.chisel.Groups.addGroup("hardenedclay"); 
+//Group
+mods.chisel.Groups.removeGroup("andesite"); 
+
+//Variations
+//Group, ItemStack
+mods.chisel.Groups.addVariation("hardenedclay", <minecraft:stained_hardened_clay:*>);
+//ItemStack
+mods.chisel.Groups.removeVariation(<chisel:hexPlating>);
 
 
 print("Initialized 'darkkitten.zs'");
