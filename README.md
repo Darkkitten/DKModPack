@@ -5,4 +5,5 @@ If you need help installing Mineforge you can use [this site](http://www.wikihow
 
 To get Minecraft you can click [here](http://www.wikihow.com/Download-Minecraft).
 
+You can connect to my server using the address: **96.47.66.139**  You need permission to do much of anything on the server.
 
