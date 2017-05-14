@@ -2,3 +2,4 @@
 *.log
 /crash-reports
 /logs
+/journeymap/colorpalette.json
