@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Sat May 13 22:38:45 MDT 2017",
+  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Sat May 13 22:57:26 MDT 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Default",
-  "modNames": "AE2 Stuff:0.6.0.9, Actually Additions:1.10.2-r105, Advanced Generators:0.9.20.23, Advanced Machines:60.0.2, Advanced Solar Panels:4.0.4, AgriCraft:2.0.0-0.9.0-a16, Akashic Tome:1.0-5, Alternate Terrain Generation:2, AnimationAPI:1.2.4, AppleSkin:1.0.5, Applied Energistics 2 Core:rv4-alpha-11, Applied Energistics 2:rv4-alpha-11, Aquaculture:1.4.0, ArchitectureCraft:1.7.1, Aroma1997\u0027s Dimensional World:1.0, Aroma1997Core:${version}, Aroma1997Core|Helper:1.1.1.2, Ars Magica 2:1.5.018, AutoRegLib:1.0-2, BD Lib:1.12.4.24, Baubles:1.3.10, Bed Bugs:@VERSION@, Better Builder\u0027s Wands:0.11.1, Better Questing:2.3.225, BetterThanBunnies:1.10.2-1.1.0, BiblioCraft:2.2.1, Biomes O\u0027 Plenty:5.0.0.2162, Blood Arsenal:1.10.2-2.0.1-17, Blood Magic: Alchemical Wizardry:1.10.2-2.1.9-78, Bookshelf:1.4.4.347, Bookshelf:5.0.0, Botania:r1.9-341, Brandon\u0027s Core:9.9.9, CT-GUI:1.0.0, Ceramics:1.10.2-1.1.5, Chameleon:1.10-2.2.2, ChatFlow:ANT:VERSION, Chest Transporter:2.5.16, Chisel:MC1.10.2-0.0.10.22, Chisels \u0026 Bits:12.12, Classic Oceans:1.0.0, Clipboard:@VERSION@, CoFH ASM:000, CoFH Core:4.1.1, CodeChicken Core:2.4.1.102, CodeChicken Lib:2.5.8.255, CommonCapabilities:1.3.2, Compact Solar Arrays:1.10.2-5.0.8.331, Controlling:1.0.4, Cooking for Blockheads:4.2.43, Coral Reef:1.0, CoroUtil Library:1.10.2-1.1.16, CraftTweaker JEI Support:1.0.1, Crafting Tweaks:6.1.16, Custom Main Menu:2.0.5, Cyclops Core:0.10.2, Dark Utilities:1.1.7.111, Davinci\u0027s Vessels:@DVESSELSVER@, Decocraft:2.4.2, DeepResonance:1.4.7, Default Options:6.1.5, Dooglamoo Cities:1.10.2-1.2.8, Draconic Evolution:2.0.12, Drawers \u0026 Bits:0.36, ET Lunar:1.10.2-0.10.6a, ElecCore:1.7.418, Elevator Mod:1.3.0, Embers:0.104, Ender IO:1.10.2-3.1.183, EnderCore:1.10.2-0.4.1.66-beta, EnderStorage:2.2.1.106, Energy Converters:1.0, Engineer\u0027s Workshop:1.3.2-1.10.2, Environmental Tech:1.10.2-0.10.6b, Extended Mod Config:v1.0, Extended Renderer:v1.0, Extra Utilities 2:1.0, Extreme Reactors:1.10.2-0.4.5.28, FTBLib:0.0.0, FTBUtilities:0.0.0, Flat Colored Blocks:mc1.10-v4.4, Flood Lights:1.2.7-145, FluxNetworks:1.2.3, FoamFix:@VERSION@, FoamFixCore:7.7.4, Forestry:5.2.17.376, Forge Microblocks:2.0.0.31, Forge Mod Loader:8.0.99.99, Forge Multipart CBE:2.0.0.31, Forgelin:1.4.2, Funky Locomotion:1.0, Funnels:1.1.2, Futurepack API:1.0.1, Futurepack:24.2.144 pre, GPS:3.0.0.4, Galacticraft Core:4.0.0, Galacticraft Planets:4.0.0, GenDustry:1.6.5.30, Gravestone:1.5.12, Gravitation Suite:3.0.1, GregTech:MC1.10.2, Guide-API:@VERSION@, Hammer Core:1.4.8, HelpFixer:1.0, Hopper Ducts:1.4.8, Immersive Engineering:0.10-58, In-Game wiki Mod:1.3.0-5, InGame Info XML:2.8.1.89, Industrial Wires:1.4-9, IndustrialCraft 2:2.6.188-ex110, InfinityLib:1.10.2-0.9.0, Integrated Dynamics:0.6.12, Integrated Tunnels:1.1.2, Interaction Wheel:1.2.4, Inventory Pets:1.4.9.5, Inventory Tweaks:1.61-58-a1fd884, Iron Backpacks:1.10.2-2.2.25, Iron Chest:1.10.2-7.0.12.801, JEI Bees:0.9.0.5, JourneyMap:1.10.2-5.4.6, Just Enough Items:3.14.7.419, Just Enough Resources:0.5.8.98, Just a Few Fish:1.5.2_for_1.10.2, KleeSlabs:3.3.5, Kore Sample:1.10.2-L1.2, LaunchGUI:@VERSION@, Localized Weather \u0026 Storms:1.10.2-2.4.10, Long Fall Boots:1.0, LunatriusCore:1.1.2.38, MCMultiPart:1.4.0, MTLib:@VERSION@, MalisisCore:1.10.2-4.4.0, MalisisDoors:1.10.2-5.2.0, Mantle:1.10.2-1.1.5.205, Mercurius:1.0.4, Micdoodle8 Core:, MineColonies:1.10.2-0.8.1009, MineTweaker 3:3.0.24, Minecraft Coder Pack:9.19, Minecraft Forge:12.18.3.2297, Minecraft Multipart Plugin:2.0.0.31, MmmMmmMmmMmm:1.11, Mod Name Tooltip:1.6.0, Mod Tweaker:2.0.11, ModPack Basic Tools:1.1.3, ModPack Utilities:1.2.5, Modular ForceField System:2.5.0, More Bees:1.10.2-1.3.2, Morph-o-Tool:1.0-12, Morpheus:1.10.2-3.1.13, Mouse Tweaks:2.8, Moving World:1.10.2-0007, MovingWorld CORE:, MrTJPCore:2.0.0.17, Multi-Storage:1.2.17, MusicCraft:3.0.1, Natura:1.10.2-4.1.0.53, NeoTech:4.0.0, Nether Portal Fix:1.0, Not Enough Items:2.1.3.220, NotEnoughIDs:1.5.3, Open Glider:@VERSION@, OpenComputers (Core):1.6.2.7, OpenComputers:1.6.2.7, PTRModelLib:1.0.0, Pam\u0027s HarvestCraft:1.9.4-1.10.2g, Photoptics:0.5.1.3.4, Pressure Pipes:1.3.1.25, ProjectRed Core:4.8.1.30, ProjectRed Expansion:4.8.1.30, ProjectRed Exploration:4.8.1.30, ProjectRed Illumination:4.8.1.30, ProjectRed Transmission:4.8.1.30, ProjectRed Transportation:4.8.1.30, ProjectRed integration:4.8.1.30, Psi:r1.0-42, QuantumStorage:3.3.2, Quark:r1.1-70, RFTools Control:1.6.8, RFTools Dimensions:4.55, RFTools:6.00, Railcraft:10.1.1, Ranged Pumps:0.3, ReAuth:3.4.1, RebornCore:2.13.5.136, Redstone Arsenal:2.0.3, Refined Relocation:@VERSION@, Refined Storage:1.2.25, Reliquary:1.10.2-1.3.3.659, Resource Loader:1.5.1, Roots:0.208, Ruins Spawning System:16.2, Schematica:1.7.8.151, ShadowMC:3.6.1, ShetiPhian-Core:3.3.8, Signals:1.0, Simple Retrogen:4.0.1+8, SimpleVoidWorld:1.1.0.4, Simply Jetpacks 2:2.1.1.47, Sleeping Bag:1.4.0, Snad:1.10.2-1.6.09.20a, Solar Flux Reborn:2.16r, SonarCore:3.2.7, Standard Expansion:2.3.131, Stellar API:0.5.4.1.4, Steve\u0027s Carts 2:2.1.4.83, Storage Drawers Extras:1.10-1.1.0, Storage Drawers:1.10.2-3.7.3, Subaraki\u0027s Common Library:1.1, Super Circuit Maker:1.0.4, Super Crafting Frame:1.2.1.88, TESLA:1.2.1.42, TNTmod:1.7.10, TOP Addons:1.10.2-0.12.0, TechReborn:2.1.12.215, The One Probe:1.4.6, Thermal Expansion:5.0.4, Thermal Foundation:2.0.5, Tinkers Tool Leveling:1.10.2-1.0.1.DEV.f5def58, Tinkers\u0027 Construct:1.10.2-2.6.3.500, TorchMaster:1.0, Translocator:2.1.4.55, UniDict:1.10.2-2.8, Useful Nullifiers:1.3.4, Valkyrie Lib:1.10.2-0.10.6, WMATM Vehicles:1.10.X-1.1.0, Waila:1.7.0, WanionLib:1.10.2-1.3, WaterPower:0.4.7, Wireless Crafting Grid:1.0.0, Wireless Crafting Terminal 2:0.1.31, WirelessRedstone-CBE:2.0.0, Woot:1.10.2-1.4.0, XNet:1.3.1, YABBA:1.10.2-0.5.0, Yarr Cute Mob Models - Remake:1.0.13, Zero CORE:1.10.2-0.1.0.5, ccl-entityhook:1.0, mercurius_updater:1.0, mob_grinding_utils:0.1.8.17, p455w0rd\u0027s Library:1.0.13, reborncore-MCMultiPart:2.13.5.136",
+  "modNames": "AE2 Stuff:0.6.0.9, Actually Additions:1.10.2-r105, Advanced Generators:0.9.20.23, Advanced Machines:60.0.2, Advanced Solar Panels:4.0.4, AgriCraft:2.0.0-0.9.0-a16, Akashic Tome:1.0-5, Alternate Terrain Generation:2, AnimationAPI:1.2.4, AppleSkin:1.0.5, Applied Energistics 2 Core:rv4-alpha-11, Applied Energistics 2:rv4-alpha-11, Aquaculture:1.4.0, ArchitectureCraft:1.7.1, Aroma1997\u0027s Dimensional World:1.0, Aroma1997Core:${version}, Aroma1997Core|Helper:1.1.1.2, Ars Magica 2:1.5.018, AutoRegLib:1.0-2, BD Lib:1.12.4.24, Baubles:1.3.10, Bed Bugs:@VERSION@, Better Builder\u0027s Wands:0.11.1, Better Questing:2.3.225, BetterThanBunnies:1.10.2-1.1.0, BiblioCraft:2.2.1, Biomes O\u0027 Plenty:5.0.0.2162, Blood Arsenal:1.10.2-2.0.1-17, Blood Magic: Alchemical Wizardry:1.10.2-2.1.9-78, Bookshelf:1.4.4.347, Bookshelf:5.0.0, Botania:r1.9-341, Brandon\u0027s Core:9.9.9, CT-GUI:1.0.0, Ceramics:1.10.2-1.1.5, Chameleon:1.10-2.2.2, ChatFlow:ANT:VERSION, Chest Transporter:2.5.16, Chisel:MC1.10.2-0.0.10.22, Chisels \u0026 Bits:12.12, Classic Oceans:1.0.0, Clipboard:@VERSION@, CoFH ASM:000, CoFH Core:4.1.1, CodeChicken Core:2.4.1.102, CodeChicken Lib:2.5.8.255, CommonCapabilities:1.3.2, Compact Solar Arrays:1.10.2-5.0.8.331, Controlling:1.0.4, Cooking for Blockheads:4.2.43, Coral Reef:1.0, CoroUtil Library:1.10.2-1.1.16, CraftTweaker JEI Support:1.0.1, Crafting Tweaks:6.1.16, Custom Main Menu:2.0.5, Cyclops Core:0.10.2, Dark Utilities:1.1.7.111, Davinci\u0027s Vessels:@DVESSELSVER@, Decocraft:2.4.2, DeepResonance:1.4.7, Default Options:6.1.5, Dooglamoo Cities:1.10.2-1.2.8, Draconic Evolution:2.0.12, Drawers \u0026 Bits:0.36, ET Lunar:1.10.2-0.10.6a, ElecCore:1.7.418, Elevator Mod:1.3.0, Embers:0.104, Ender IO:1.10.2-3.1.183, EnderCore:1.10.2-0.4.1.66-beta, EnderStorage:2.2.1.106, Energy Converters:1.0, Engineer\u0027s Workshop:1.3.2-1.10.2, Environmental Tech:1.10.2-0.10.6b, Extended Mod Config:v1.0, Extended Renderer:v1.0, Extra Utilities 2:1.0, Extreme Reactors:1.10.2-0.4.5.28, FTBLib:0.0.0, FTBUtilities:0.0.0, Flat Colored Blocks:mc1.10-v4.4, Flood Lights:1.2.7-145, FluxNetworks:1.2.3, FoamFix:@VERSION@, FoamFixCore:7.7.4, Forestry:5.2.17.376, Forge Microblocks:2.0.0.31, Forge Mod Loader:8.0.99.99, Forge Multipart CBE:2.0.0.31, Forgelin:1.4.2, Funky Locomotion:1.0, Funnels:1.1.2, Futurepack API:1.0.1, Futurepack:24.2.144 pre, GPS:3.0.0.4, Galacticraft Core:4.0.0, Galacticraft Planets:4.0.0, GenDustry:1.6.5.30, Gravestone:1.5.12, Gravitation Suite:3.0.1, GregTech:MC1.10.2, Guide-API:@VERSION@, Hammer Core:1.4.8, HelpFixer:1.0, Hopper Ducts:1.4.8, Immersive Engineering:0.10-58, In-Game wiki Mod:1.3.0-5, InGame Info XML:2.8.1.89, Industrial Wires:1.4-9, IndustrialCraft 2:2.6.188-ex110, InfinityLib:1.10.2-0.9.0, Integrated Dynamics:0.6.12, Integrated Tunnels:1.1.2, Interaction Wheel:1.2.4, Inventory Pets:1.4.9.5, Inventory Tweaks:1.61-58-a1fd884, Iron Backpacks:1.10.2-2.2.25, Iron Chest:1.10.2-7.0.12.801, JEI Bees:0.9.0.5, JourneyMap:1.10.2-5.4.6, Just Enough Items:3.14.7.419, Just Enough Resources:0.5.8.98, Just a Few Fish:1.5.2_for_1.10.2, KleeSlabs:3.3.5, Kore Sample:1.10.2-L1.2, LaunchGUI:@VERSION@, Localized Weather \u0026 Storms:1.10.2-2.4.10, Long Fall Boots:1.0, LunatriusCore:1.1.2.38, MCMultiPart:1.4.0, MTLib:@VERSION@, MalisisCore:1.10.2-4.4.0, MalisisDoors:1.10.2-5.2.0, Mantle:1.10.2-1.1.5.205, Mercurius:1.0.4, Micdoodle8 Core:, MineColonies:1.10.2-0.8.1009, MineTweaker 3:3.0.24, Minecraft Coder Pack:9.19, Minecraft Forge:12.18.3.2297, Minecraft Multipart Plugin:2.0.0.31, MmmMmmMmmMmm:1.11, Mod Name Tooltip:1.6.0, Mod Tweaker:2.0.11, ModPack Basic Tools:1.1.3, ModPack Utilities:1.2.5, Modular ForceField System:2.5.0, More Bees:1.10.2-1.3.2, Morph-o-Tool:1.0-12, Morpheus:1.10.2-3.1.13, Mouse Tweaks:2.8, Moving World:1.10.2-0007, MovingWorld CORE:, MrTJPCore:2.0.0.17, Multi-Storage:1.2.17, MusicCraft:3.0.1, Natura:1.10.2-4.1.0.53, NeoTech:4.0.0, Nether Portal Fix:1.0, Not Enough Items:2.1.3.220, NotEnoughIDs:1.5.3, Open Glider:@VERSION@, OpenComputers (Core):1.6.2.7, OpenComputers:1.6.2.7, PTRModelLib:1.0.0, Pam\u0027s HarvestCraft:1.9.4-1.10.2g, Photoptics:0.5.1.3.4, Pressure Pipes:1.3.1.25, ProjectRed Core:4.8.1.30, ProjectRed Expansion:4.8.1.30, ProjectRed Exploration:4.8.1.30, ProjectRed Illumination:4.8.1.30, ProjectRed Transmission:4.8.1.30, ProjectRed Transportation:4.8.1.30, ProjectRed integration:4.8.1.30, Psi:r1.0-42, QuantumStorage:3.3.2, Quark:r1.1-70, RFTools Control:1.6.8, RFTools Dimensions:4.55, RFTools:6.00, Railcraft:10.1.1, Ranged Pumps:0.3, ReAuth:3.4.1, RebornCore:2.13.5.136, Redstone Arsenal:2.0.3, Refined Relocation:@VERSION@, Refined Storage:1.2.25, Reliquary:1.10.2-1.3.3.659, Resource Loader:1.5.1, Roots:0.208, Ruins Spawning System:16.2, Schematica:1.7.8.151, ShadowMC:3.6.1, ShetiPhian-Core:3.3.8, Signals:1.0, Simple Retrogen:4.0.1+8, SimpleVoidWorld:1.1.0.4, Simply Jetpacks 2:2.1.1.47, Sleeping Bag:1.4.0, Snad:1.10.2-1.6.09.20a, Solar Flux Reborn:2.16r, SonarCore:3.2.7, Standard Expansion:2.3.131, Stellar API:0.5.4.1.4, Steve\u0027s Carts 2:2.1.4.83, Storage Drawers Extras:1.10-1.1.0, Storage Drawers:1.10.2-3.7.3, Subaraki\u0027s Common Library:1.1, Super Circuit Maker:1.0.4, Super Crafting Frame:1.2.1.88, TESLA:1.2.1.42, TNTmod:1.7.10, TOP Addons:1.10.2-0.12.0, TechReborn:2.1.12.215, The One Probe:1.4.6, Thermal Expansion:5.0.4, Thermal Foundation:2.0.5, Tinkers Tool Leveling:1.10.2-1.0.1.DEV.f5def58, Tinkers\u0027 Construct:1.10.2-2.6.3.500, TorchMaster:1.0, Translocator:2.1.4.55, UniDict:1.10.2-2.8, Useful Nullifiers:1.3.4, Valkyrie Lib:1.10.2-0.10.6, WMATM Vehicles:1.10.X-1.1.0, Waila:1.7.0, WanionLib:1.10.2-1.3, WaterPower:0.4.7, Wireless Crafting Grid:1.0.0, Wireless Crafting Terminal 2:0.1.31, WirelessRedstone-CBE:2.0.0, Woot:1.10.2-1.4.0, WorldEdit:6.1.4, XNet:1.3.1, YABBA:1.10.2-0.5.0, Yarr Cute Mob Models - Remake:1.0.13, Zero CORE:1.10.2-0.1.0.5, ccl-entityhook:1.0, mercurius_updater:1.0, mob_grinding_utils:0.1.8.17, p455w0rd\u0027s Library:1.0.13, reborncore-MCMultiPart:2.13.5.136",
   "blockColors": [
     {
       "uid": "actuallyadditions:blockAtomicReconstructor",
@@ -5169,13 +5169,13 @@ var colorpalette={
     {
       "uid": "bloodmagic:BlockDemonBricks1",
       "name": "Vengeful Stone Bricks",
-      "color": "#735656",
+      "color": "#745656",
       "alpha": 1.0,
       "meta": 3,
       "variants": [
         {
           "name": "Raw Stone Bricks",
-          "color": "#597071",
+          "color": "#587071",
           "meta": 0
         },
         {
@@ -5185,12 +5185,12 @@ var colorpalette={
         },
         {
           "name": "Destructive Stone Bricks",
-          "color": "#5e5445",
+          "color": "#5d5345",
           "meta": 2
         },
         {
           "name": "Steadfast Stone Bricks",
-          "color": "#484b64",
+          "color": "#494b65",
           "meta": 4
         }
       ]
@@ -8480,7 +8480,7 @@ var colorpalette={
     {
       "uid": "ceramics:clay_slab",
       "name": "Dragon Bricks Slab",
-      "color": "#92519f",
+      "color": "#9353a1",
       "alpha": 1.0,
       "meta": 12,
       "variants": [
@@ -8572,7 +8572,7 @@ var colorpalette={
       "variants": [
         {
           "color": "#844692",
-          "meta": 7
+          "meta": 6
         },
         {
           "color": "#9353a1",
@@ -8589,7 +8589,7 @@ var colorpalette={
       "variants": [
         {
           "color": "#d0c0a4",
-          "meta": 6
+          "meta": 7
         }
       ]
     },
@@ -42934,11 +42934,11 @@ var colorpalette={
       "meta": 9,
       "variants": [
         {
-          "color": "#7b705e",
-          "meta": 2
+          "color": "#786d5b",
+          "meta": 4
         },
         {
-          "color": "#786d5b",
+          "color": "#7b705e",
           "meta": 5
         },
         {
