@@ -9,7 +9,9 @@ There are two Resource Packs includes with this pack, I recommend using them. Th
 
 I also use an in game wiki system (More info about that to come).
 
-You can connect to my server using the address: **96.47.66.139**  You need permission to do much of anything on the server.
+You can connect to my server using the address: **96.47.66.139**  
+
+You need permission to do much of anything on the server.
 
 
 
