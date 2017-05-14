@@ -1,5 +1,5 @@
-[17:17:32] [Server thread/INFO]: Starting minecraft server version 1.10.2
-[17:17:32] [Server console handler/ERROR]: Exception handling console input
+[20:15:14] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[20:15:14] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_131]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_131]
@@ -12,82 +12,52 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_131]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_131]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_131]
-	at ld$2.run(SourceFile:95) [minecraft_server.1.10.2.jar:?]
-[17:17:32] [Server thread/INFO]: Loading properties
-[17:17:33] [Server thread/INFO]: Default game type: SURVIVAL
-[17:17:33] [Server thread/INFO]: Generating keypair
-[17:17:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:17:33] [Server thread/INFO]: Using default channel type
-[17:17:33] [Server thread/WARN]: Failed to load user banlist: 
-java.io.FileNotFoundException: banned-players.json (The system cannot find the file specified)
-	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_131]
-	at java.io.FileInputStream.open(Unknown Source) ~[?:1.8.0_131]
-	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_131]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.10.2.jar:?]
-	at mt.g(SourceFile:136) ~[minecraft_server.1.10.2.jar:?]
-	at lc.z(SourceFile:99) [minecraft_server.1.10.2.jar:?]
-	at lc.<init>(SourceFile:25) [minecraft_server.1.10.2.jar:?]
-	at ld.j(SourceFile:185) [minecraft_server.1.10.2.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:428) [minecraft_server.1.10.2.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_131]
-[17:17:33] [Server thread/WARN]: Failed to load ip banlist: 
-java.io.FileNotFoundException: banned-ips.json (The system cannot find the file specified)
-	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_131]
-	at java.io.FileInputStream.open(Unknown Source) ~[?:1.8.0_131]
-	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_131]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.10.2.jar:?]
-	at mt.g(SourceFile:136) ~[minecraft_server.1.10.2.jar:?]
-	at lc.y(SourceFile:91) [minecraft_server.1.10.2.jar:?]
-	at lc.<init>(SourceFile:27) [minecraft_server.1.10.2.jar:?]
-	at ld.j(SourceFile:185) [minecraft_server.1.10.2.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:428) [minecraft_server.1.10.2.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_131]
-[17:17:33] [Server thread/WARN]: Failed to load operators list: 
-java.io.FileNotFoundException: ops.json (The system cannot find the file specified)
-	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_131]
-	at java.io.FileInputStream.open(Unknown Source) ~[?:1.8.0_131]
-	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_131]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.10.2.jar:?]
-	at mt.g(SourceFile:136) ~[minecraft_server.1.10.2.jar:?]
-	at lc.A(SourceFile:107) [minecraft_server.1.10.2.jar:?]
-	at lc.<init>(SourceFile:29) [minecraft_server.1.10.2.jar:?]
-	at ld.j(SourceFile:185) [minecraft_server.1.10.2.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:428) [minecraft_server.1.10.2.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_131]
-[17:17:33] [Server thread/WARN]: Failed to load white-list: 
-java.io.FileNotFoundException: whitelist.json (The system cannot find the file specified)
-	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_131]
-	at java.io.FileInputStream.open(Unknown Source) ~[?:1.8.0_131]
-	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_131]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.10.2.jar:?]
-	at mt.g(SourceFile:136) ~[minecraft_server.1.10.2.jar:?]
-	at lc.C(SourceFile:123) [minecraft_server.1.10.2.jar:?]
-	at lc.<init>(SourceFile:30) [minecraft_server.1.10.2.jar:?]
-	at ld.j(SourceFile:185) [minecraft_server.1.10.2.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:428) [minecraft_server.1.10.2.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_131]
-[17:17:33] [Server thread/INFO]: Preparing level "Meow"
-[17:17:34] [Server thread/INFO]: Preparing start region for level 0
-[17:17:35] [Server thread/INFO]: Preparing spawn area: 6%
-[17:17:36] [Server thread/INFO]: Preparing spawn area: 11%
-[17:17:37] [Server thread/INFO]: Preparing spawn area: 15%
-[17:17:38] [Server thread/INFO]: Preparing spawn area: 21%
-[17:17:39] [Server thread/INFO]: Preparing spawn area: 27%
-[17:17:40] [Server thread/INFO]: Preparing spawn area: 32%
-[17:17:41] [Server thread/INFO]: Preparing spawn area: 39%
-[17:17:42] [Server thread/INFO]: Preparing spawn area: 45%
-[17:17:43] [Server thread/INFO]: Preparing spawn area: 50%
-[17:17:44] [Server thread/INFO]: Preparing spawn area: 56%
-[17:17:45] [Server thread/INFO]: Preparing spawn area: 63%
-[17:17:46] [Server thread/INFO]: Preparing spawn area: 70%
-[17:17:47] [Server thread/INFO]: Preparing spawn area: 77%
-[17:17:48] [Server thread/INFO]: Preparing spawn area: 86%
-[17:17:49] [Server thread/INFO]: Preparing spawn area: 93%
-[17:17:50] [Server thread/INFO]: Preparing spawn area: 99%
-[17:17:50] [Server thread/INFO]: Done (17.465s)! For help, type "help" or "?"
-[17:17:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2585ms behind, skipping 51 tick(s)
-[17:17:55] [Server thread/INFO]: Stopping server
-[17:17:55] [Server thread/INFO]: Saving players
-[17:17:55] [Server thread/INFO]: Saving worlds
-[17:17:55] [Server thread/INFO]: Saving chunks for level 'Meow'/Overworld
-[17:17:55] [Server Shutdown Thread/INFO]: Stopping server
+	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:101) [ld$2.class:?]
+[20:21:55] [Server thread/INFO]: Loading properties
+[20:21:55] [Server thread/INFO]: Default game type: SURVIVAL
+[20:21:55] [Server thread/INFO]: Generating keypair
+[20:21:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:21:55] [Server thread/INFO]: Using default channel type
+[20:47:05] [Server thread/INFO]: Preparing level "Meow"
+[20:47:28] [Server thread/INFO]: Preparing start region for level 0
+[20:47:31] [Server thread/INFO]: Preparing spawn area: 3%
+[20:47:44] [Server thread/INFO]: Preparing spawn area: 4%
+[20:49:29] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[20:49:29] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[20:51:17] [Server thread/WARN]: Skipping BlockEntity with id flower_pot
+[20:51:25] [Server thread/WARN]: Skipping BlockEntity with id flower_pot
+[20:51:48] [Server thread/WARN]: Skipping BlockEntity with id flower_pot
+[20:54:11] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[20:54:21] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[20:56:25] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[20:56:44] [Server thread/WARN]: Tried to over-fill a container
+[20:57:15] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:03:15] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:03:15] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:03:15] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:03:15] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:04:50] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:07:20] [Server thread/WARN]: Tried to over-fill a container
+[21:07:23] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:11:10] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:12:43] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:12:43] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:12:43] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:12:43] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:13:24] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:17:49] [Server thread/WARN]: Tried to over-fill a container
+[21:20:44] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:20:44] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:20:44] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:20:44] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:25:32] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:25:32] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:25:32] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:25:32] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:26:38] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:26:38] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:27:19] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:27:19] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:32:32] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:39:13] [Server thread/WARN]: Couldn't set damage of loot item 1xitem.darkutils.mystery.potion@0
+[21:41:01] [Server thread/WARN]: Tried to over-fill a container

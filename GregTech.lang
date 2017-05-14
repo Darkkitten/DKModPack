@@ -1,0 +1,13 @@
+# Configuration file
+
+enablelangfile {
+    B:UseThisFileAsLanguageFile=false
+}
+
+
+languagefile {
+    S:gt.neutronreflector.tooltip_main=Undestructable
+    S:gt.sensorcard.tooltip_main=Insert into Display Panel
+}
+
+
