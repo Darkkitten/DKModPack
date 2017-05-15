@@ -1,9 +1,9 @@
 {
     "buttons":
     {
-        "darkitten support":
+        "ftb support":
         {
-            "text" : "Darkkitten Modpack",
+            "text" : "FTB General Support",
             "posX" : -203,
             "posY" : -100,
             "width" : 200,
@@ -14,7 +14,23 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "https://github.com/Darkkitten/DKModPack"
+				"link" : "https://support.feed-the-beast.com/"
+            }
+        },
+        "modpack support":
+        {
+            "text" : "FTB Beyond Modpack Support",
+            "posX" : 3,
+            "posY" : -100,
+            "width" : 200,
+            "height" : 20,
+			"normalTextColor" : 16768000,
+			"alignment" : "center",
+			"texture" : "mainmenu:longbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://support.feed-the-beast.com/"
             }
         },		
         "mod1":
@@ -125,6 +141,28 @@
                 "type" : "refresh"
             }
         }	
+    },
+    
+    "labels":
+    {
+		"info1":{
+			"text" : "Feed The Beast Issue Trackers:",
+            "posX" : -110,
+            "posY" : -120,
+			"fontSize" : 1.3,
+			"color" : 65535,
+			"hoverColor" : 65535,
+            "alignment" : "center"
+		},
+		"info2":{
+			"text" : "Alpha Mod's Issue Trackers:",
+            "posX" : -100,
+            "posY" : -70,
+			"fontSize" : 1.3,
+            "color" : 65535,
+			"hoverColor" : 65535,
+            "alignment" : "center"
+		}
     },
     
     "other":
