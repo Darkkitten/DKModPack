@@ -247,7 +247,7 @@ recipes.addShapeless(<malisisdoors:trapdoor_acacia>, [<quark:acacia_trapdoor>]);
 recipes.addShapeless(<ic2:neutron_reflector>, [<techreborn:part:26>]);
 recipes.addShapeless(<techreborn:part:26>, [<ic2:neutron_reflector>]);
 
-#Gregtech stuff
+#GregTech Stuff
 //Alloy Smelter
 //OutputStack, InputStack1, InputStack2, Time in Ticks, EnergyUsage
 mods.gregtech.AlloySmelter.addRecipe(<minecraft:slime_ball>, <IC2:itemRubber>, <gregtech:gt.metaitem.01:32307> * 0, 800, 30);
@@ -472,6 +472,7 @@ mods.botania.RuneAltar.addRecipe(<minecraft:stonebrick:2>, [<minecraft:stonebric
 //OutputStack
 mods.botania.RuneAltar.removeRecipe(<Botania:rune>);
 
+
 //Groups
 //Group
 mods.chisel.Groups.addGroup("hardenedclay"); 
@@ -571,6 +572,5 @@ mods.bloodmagic.BloodOrb.addShapeless(<AWWayofTime:demonBloodShard> * 5, [<AWWay
 mods.bloodmagic.Alchemy.addRecipe(<minecraft:clay> * 2, [<minecraft:hardened_clay>, <minecraft:hardened_clay>, <minecraft:water_bucket>], 1, 100);
 //OutputStack
 mods.bloodmagic.Alchemy.removeRecipe(<minecraft:ice>);
-
 
 print("Initialized 'darkkitten.zs'");
