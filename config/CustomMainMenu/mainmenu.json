@@ -174,7 +174,7 @@
             "width" : 20,
             "height" : 20,
 			"alignment" : "center",
-			"tooltip": "FTB Site",
+			"tooltip": "DKMod Site",
 			"texture" : "mainmenu:web.png",
 			"imageWidth": "40",
 			"imageHeight": "40",
